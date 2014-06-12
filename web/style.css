@@ -1,0 +1,18 @@
+/* 
+    Document   : style
+    Created on : 2014-03-03, 16:23:38
+    Author     : faycel
+    Description:
+        Purpose of the stylesheet follows.
+*/
+
+root { 
+    display: block;
+}
+.police1{
+    font-family: Gill;
+    font-size: 14px;
+    color: #006dcc;
+    
+}
+
